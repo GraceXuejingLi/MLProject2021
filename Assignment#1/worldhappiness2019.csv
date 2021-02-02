@@ -1,0 +1,157 @@
+Happiness_level,Country or region,GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption,name,region,sub-region
+Very High,Finland,1.34,1.587,0.986,0.596,0.153,0.39299999999999996,Finland,Europe,Northern Europe
+Very High,Denmark,1.383,1.5730000000000002,0.996,0.5920000000000001,0.252,0.41,Denmark,Europe,Northern Europe
+Very High,Norway,1.4880000000000002,1.5819999999999999,1.028,0.603,0.271,0.341,Norway,Europe,Northern Europe
+Very High,Iceland,1.38,1.624,1.026,0.591,0.354,0.11800000000000001,Iceland,Europe,Northern Europe
+Very High,Netherlands,1.396,1.5219999999999998,0.9990000000000001,0.557,0.322,0.298,Netherlands,Europe,Western Europe
+Very High,Switzerland,1.452,1.526,1.052,0.5720000000000001,0.263,0.34299999999999997,Switzerland,Europe,Western Europe
+Very High,Sweden,1.3869999999999998,1.4869999999999999,1.0090000000000001,0.574,0.267,0.373,Sweden,Europe,Northern Europe
+Very High,New Zealand,1.3030000000000002,1.557,1.026,0.585,0.33,0.38,New Zealand,Oceania,Australia and New Zealand
+Very High,Canada,1.365,1.505,1.0390000000000001,0.584,0.285,0.308,Canada,Americas,Northern America
+Very High,Austria,1.376,1.475,1.016,0.532,0.244,0.226,Austria,Europe,Western Europe
+Very High,Australia,1.3719999999999999,1.548,1.036,0.557,0.332,0.29,Australia,Oceania,Australia and New Zealand
+Very High,Costa Rica,1.034,1.4409999999999998,0.963,0.5579999999999999,0.14400000000000002,0.09300000000000001,Costa Rica,Americas,Latin America and the Caribbean
+Very High,Israel,1.276,1.455,1.0290000000000001,0.371,0.261,0.08199999999999999,Israel,Asia,Western Asia
+Very High,Luxembourg,1.609,1.479,1.012,0.526,0.19399999999999998,0.316,Luxembourg,Europe,Western Europe
+Very High,United Kingdom,1.3330000000000002,1.538,0.996,0.45,0.348,0.278,United Kingdom,Europe,Northern Europe
+Very High,Ireland,1.499,1.5530000000000002,0.9990000000000001,0.516,0.298,0.31,Ireland,Europe,Northern Europe
+Very High,Germany,1.3730000000000002,1.454,0.987,0.495,0.261,0.265,Germany,Europe,Western Europe
+Very High,Belgium,1.3559999999999999,1.504,0.986,0.473,0.16,0.21,Belgium,Europe,Western Europe
+Very High,United States,1.433,1.4569999999999999,0.8740000000000001,0.45399999999999996,0.28,0.128,United States,Americas,Northern America
+Very High,Czech Republic,1.2690000000000001,1.4869999999999999,0.92,0.457,0.046,0.036000000000000004,Czech Republic,Europe,Eastern Europe
+Very High,United Arab Emirates,1.5030000000000001,1.31,0.825,0.598,0.262,0.182,United Arab Emirates,Asia,Western Asia
+Very High,Malta,1.3,1.52,0.9990000000000001,0.564,0.375,0.151,Malta,Europe,Southern Europe
+Very High,Mexico,1.07,1.3230000000000002,0.861,0.433,0.07400000000000001,0.073,Mexico,Americas,Latin America and the Caribbean
+Very High,France,1.324,1.472,1.045,0.436,0.111,0.183,France,Europe,Western Europe
+Very High,Taiwan,1.368,1.43,0.914,0.35100000000000003,0.242,0.09699999999999999,Taiwan,Asia,Eastern Asia
+Very High,Chile,1.159,1.369,0.92,0.35700000000000004,0.187,0.055999999999999994,Chile,Americas,Latin America and the Caribbean
+Very High,Guatemala,0.8,1.2690000000000001,0.746,0.535,0.175,0.078,Guatemala,Americas,Latin America and the Caribbean
+Very High,Saudi Arabia,1.403,1.357,0.795,0.439,0.08,0.132,Saudi Arabia,Asia,Western Asia
+Very High,Qatar,1.6840000000000002,1.3130000000000002,0.871,0.555,0.22,0.16699999999999998,Qatar,Asia,Western Asia
+Very High,Spain,1.286,1.484,1.062,0.36200000000000004,0.153,0.079,Spain,Europe,Southern Europe
+Very High,Panama,1.149,1.442,0.91,0.516,0.109,0.054000000000000006,Panama,Americas,Latin America and the Caribbean
+High,Brazil,1.004,1.439,0.802,0.39,0.099,0.086,Brazil,Americas,Latin America and the Caribbean
+High,Uruguay,1.124,1.465,0.8909999999999999,0.523,0.127,0.15,Uruguay,Americas,Latin America and the Caribbean
+High,Singapore,1.5719999999999998,1.463,1.141,0.556,0.271,0.45299999999999996,Singapore,Asia,South-eastern Asia
+High,El Salvador,0.794,1.242,0.789,0.43,0.09300000000000001,0.07400000000000001,El Salvador,Americas,Latin America and the Caribbean
+High,Italy,1.294,1.4880000000000002,1.0390000000000001,0.231,0.158,0.03,Italy,Europe,Southern Europe
+High,Bahrain,1.3619999999999999,1.368,0.871,0.536,0.255,0.11,Bahrain,Asia,Western Asia
+High,Slovakia,1.246,1.504,0.8809999999999999,0.33399999999999996,0.121,0.013999999999999999,Slovakia,Europe,Eastern Europe
+High,Trinidad & Tobago,1.2309999999999999,1.4769999999999999,0.713,0.489,0.185,0.016,Trinidad & Tobago,Americas,Latin America and the Caribbean
+High,Poland,1.206,1.4380000000000002,0.884,0.483,0.11699999999999999,0.05,Poland,Europe,Eastern Europe
+High,Uzbekistan,0.745,1.5290000000000001,0.7559999999999999,0.631,0.322,0.24,Uzbekistan,Asia,Central Asia
+High,Lithuania,1.238,1.515,0.818,0.29100000000000004,0.043,0.042,Lithuania,Europe,Northern Europe
+High,Colombia,0.985,1.41,0.841,0.47,0.099,0.034,Colombia,Americas,Latin America and the Caribbean
+High,Slovenia,1.258,1.5230000000000001,0.953,0.564,0.14400000000000002,0.057,Slovenia,Europe,Southern Europe
+High,Nicaragua,0.6940000000000001,1.325,0.835,0.435,0.2,0.127,Nicaragua,Americas,Latin America and the Caribbean
+High,Kosovo,0.882,1.232,0.758,0.489,0.262,0.006,Kosovo,Europe,Southern Europe
+High,Argentina,1.092,1.432,0.8809999999999999,0.47100000000000003,0.066,0.05,Argentina,Americas,Latin America and the Caribbean
+High,Romania,1.162,1.232,0.825,0.462,0.083,0.005,Romania,Europe,Eastern Europe
+High,Cyprus,1.263,1.2229999999999999,1.042,0.406,0.19,0.040999999999999995,Cyprus,Asia,Western Asia
+High,Ecuador,0.912,1.3119999999999998,0.868,0.498,0.126,0.087,Ecuador,Americas,Latin America and the Caribbean
+High,Kuwait,1.5,1.319,0.8079999999999999,0.493,0.142,0.09699999999999999,Kuwait,Asia,Western Asia
+High,Thailand,1.05,1.409,0.828,0.557,0.359,0.027999999999999997,Thailand,Asia,South-eastern Asia
+High,Latvia,1.187,1.465,0.812,0.264,0.075,0.064,Latvia,Europe,Northern Europe
+High,South Korea,1.301,1.219,1.036,0.159,0.175,0.055999999999999994,South Korea,Asia,Eastern Asia
+High,Estonia,1.237,1.528,0.8740000000000001,0.495,0.10300000000000001,0.161,Estonia,Europe,Northern Europe
+High,Jamaica,0.831,1.4780000000000002,0.831,0.49,0.107,0.027999999999999997,Jamaica,Americas,Latin America and the Caribbean
+High,Mauritius,1.12,1.402,0.7979999999999999,0.498,0.215,0.06,Mauritius,Africa,Sub-Saharan Africa
+High,Japan,1.327,1.419,1.088,0.445,0.069,0.14,Japan,Asia,Eastern Asia
+High,Honduras,0.642,1.236,0.828,0.507,0.24600000000000002,0.078,Honduras,Americas,Latin America and the Caribbean
+High,Kazakhstan,1.173,1.508,0.7290000000000001,0.41,0.146,0.096,Kazakhstan,Asia,Central Asia
+High,Bolivia,0.7759999999999999,1.209,0.706,0.511,0.13699999999999998,0.064,Bolivia,Americas,Latin America and the Caribbean
+High,Hungary,1.2009999999999998,1.41,0.828,0.19899999999999998,0.081,0.02,Hungary,Europe,Eastern Europe
+High,Paraguay,0.855,1.475,0.777,0.514,0.184,0.08,Paraguay,Americas,Latin America and the Caribbean
+Average,Northern Cyprus,1.263,1.252,1.042,0.41700000000000004,0.191,0.162,Northern Cyprus,Asia,Western Asia
+Average,Peru,0.96,1.274,0.8540000000000001,0.455,0.083,0.027000000000000003,Peru,Americas,Latin America and the Caribbean
+Average,Portugal,1.2209999999999999,1.431,0.9990000000000001,0.508,0.047,0.025,Portugal,Europe,Southern Europe
+Average,Pakistan,0.677,0.8859999999999999,0.535,0.313,0.22,0.098,Pakistan,Asia,Southern Asia
+Average,Russia,1.183,1.452,0.726,0.33399999999999996,0.08199999999999999,0.031,Russia,Europe,Eastern Europe
+Average,Philippines,0.807,1.2930000000000001,0.657,0.5579999999999999,0.11699999999999999,0.107,Philippines,Asia,South-eastern Asia
+Average,Serbia,1.004,1.383,0.8540000000000001,0.282,0.13699999999999998,0.039,Serbia,Europe,Southern Europe
+Average,Moldova,0.685,1.328,0.7390000000000001,0.245,0.18100000000000002,0.0,Moldova,Europe,Eastern Europe
+Average,Libya,1.044,1.3030000000000002,0.6729999999999999,0.41600000000000004,0.133,0.152,Libya,Africa,Northern Africa
+Average,Montenegro,1.051,1.361,0.871,0.19699999999999998,0.142,0.08,Montenegro,Europe,Southern Europe
+Average,Tajikistan,0.493,1.0979999999999999,0.718,0.389,0.23,0.14400000000000002,Tajikistan,Asia,Central Asia
+Average,Croatia,1.155,1.266,0.914,0.29600000000000004,0.11900000000000001,0.022000000000000002,Croatia,Europe,Southern Europe
+Average,Hong Kong,1.4380000000000002,1.2770000000000001,1.122,0.44,0.258,0.287,Hong Kong,Asia,Eastern Asia
+Average,Dominican Republic,1.015,1.401,0.779,0.49700000000000005,0.113,0.10099999999999999,Dominican Republic,Americas,Latin America and the Caribbean
+Average,Bosnia and Herzegovina,0.945,1.212,0.845,0.212,0.263,0.006,Bosnia and Herzegovina,Europe,Southern Europe
+Average,Turkey,1.183,1.36,0.8079999999999999,0.195,0.083,0.106,Turkey,Asia,Western Asia
+Average,Malaysia,1.2209999999999999,1.171,0.828,0.508,0.26,0.024,Malaysia,Asia,South-eastern Asia
+Average,Belarus,1.067,1.465,0.789,0.235,0.094,0.142,Belarus,Europe,Eastern Europe
+Average,Greece,1.181,1.156,0.9990000000000001,0.067,0.0,0.034,Greece,Europe,Southern Europe
+Average,Mongolia,0.948,1.531,0.667,0.317,0.235,0.038,Mongolia,Asia,Eastern Asia
+Average,North Macedonia,0.983,1.294,0.838,0.345,0.185,0.034,North Macedonia,Europe,Southern Europe
+Average,Nigeria,0.696,1.111,0.245,0.426,0.215,0.040999999999999995,Nigeria,Africa,Sub-Saharan Africa
+Average,Kyrgyzstan,0.551,1.4380000000000002,0.723,0.508,0.3,0.023,Kyrgyzstan,Asia,Central Asia
+Average,Turkmenistan,1.052,1.538,0.657,0.39399999999999996,0.244,0.027999999999999997,Turkmenistan,Asia,Central Asia
+Average,Algeria,1.002,1.16,0.785,0.086,0.073,0.114,Algeria,Africa,Northern Africa
+Average,Morocco,0.8009999999999999,0.782,0.782,0.418,0.036000000000000004,0.076,Morocco,Africa,Northern Africa
+Average,Azerbaijan,1.043,1.147,0.769,0.35100000000000003,0.035,0.182,Azerbaijan,Asia,Western Asia
+Average,Lebanon,0.987,1.224,0.815,0.21600000000000003,0.166,0.027000000000000003,Lebanon,Asia,Western Asia
+Average,Indonesia,0.9309999999999999,1.203,0.66,0.491,0.498,0.027999999999999997,Indonesia,Asia,South-eastern Asia
+Average,China,1.0290000000000001,1.125,0.893,0.521,0.057999999999999996,0.1,China,Asia,Eastern Asia
+Average,Vietnam,0.741,1.3459999999999999,0.851,0.5429999999999999,0.147,0.073,Vietnam,Asia,South-eastern Asia
+Low,Bhutan,0.813,1.321,0.604,0.457,0.37,0.16699999999999998,Bhutan,Asia,Southern Asia
+Low,Cameroon,0.5489999999999999,0.91,0.331,0.381,0.187,0.037000000000000005,Cameroon,Africa,Sub-Saharan Africa
+Low,Bulgaria,1.092,1.5130000000000001,0.815,0.311,0.081,0.004,Bulgaria,Europe,Eastern Europe
+Low,Ghana,0.611,0.868,0.486,0.381,0.245,0.04,Ghana,Africa,Sub-Saharan Africa
+Low,Ivory Coast,0.569,0.8079999999999999,0.23199999999999998,0.35200000000000004,0.154,0.09,Ivory Coast,Africa,Sub-Saharan Africa
+Low,Nepal,0.446,1.226,0.677,0.439,0.285,0.08900000000000001,Nepal,Asia,Southern Asia
+Low,Jordan,0.8370000000000001,1.225,0.815,0.38299999999999995,0.11,0.13,Jordan,Asia,Western Asia
+Low,Benin,0.39299999999999996,0.43700000000000006,0.397,0.349,0.175,0.08199999999999999,Benin,Africa,Sub-Saharan Africa
+Low,Congo (Brazzaville),0.6729999999999999,0.799,0.508,0.37200000000000005,0.105,0.09300000000000001,Congo (Brazzaville),Africa,Sub-Saharan Africa
+Low,Gabon,1.057,1.183,0.5710000000000001,0.295,0.043,0.055,Gabon,Africa,Sub-Saharan Africa
+Low,Laos,0.764,1.03,0.551,0.547,0.266,0.16399999999999998,Laos,Asia,South-eastern Asia
+Low,South Africa,0.96,1.351,0.469,0.389,0.13,0.055,South Africa,Africa,Sub-Saharan Africa
+Low,Albania,0.9470000000000001,0.848,0.8740000000000001,0.38299999999999995,0.17800000000000002,0.027000000000000003,Albania,Europe,Southern Europe
+Low,Venezuela,0.96,1.4269999999999998,0.805,0.154,0.064,0.047,Venezuela,Americas,Latin America and the Caribbean
+Low,Cambodia,0.574,1.122,0.637,0.609,0.23199999999999998,0.062,Cambodia,Asia,South-eastern Asia
+Low,Palestinian Territories,0.657,1.247,0.672,0.225,0.10300000000000001,0.066,Palestinian Territories,Asia,Western Asia
+Low,Senegal,0.45,1.1340000000000001,0.5710000000000001,0.292,0.153,0.07200000000000001,Senegal,Africa,Sub-Saharan Africa
+Low,Somalia,0.0,0.698,0.268,0.5589999999999999,0.243,0.27,Somalia,Africa,Sub-Saharan Africa
+Low,Namibia,0.879,1.3130000000000002,0.47700000000000004,0.401,0.07,0.055999999999999994,Namibia,Africa,Sub-Saharan Africa
+Low,Niger,0.138,0.774,0.366,0.318,0.188,0.102,Niger,Africa,Sub-Saharan Africa
+Low,Burkina Faso,0.331,1.056,0.38,0.255,0.177,0.113,Burkina Faso,Africa,Sub-Saharan Africa
+Low,Armenia,0.85,1.055,0.815,0.28300000000000003,0.095,0.064,Armenia,Asia,Western Asia
+Low,Iran,1.1,0.8420000000000001,0.785,0.305,0.27,0.125,Iran,Asia,Southern Asia
+Low,Guinea,0.38,0.8290000000000001,0.375,0.332,0.207,0.086,Guinea,Africa,Sub-Saharan Africa
+Low,Georgia,0.8859999999999999,0.6659999999999999,0.752,0.34600000000000003,0.043,0.16399999999999998,Georgia,Asia,Western Asia
+Low,Gambia,0.308,0.9390000000000001,0.428,0.382,0.26899999999999996,0.16699999999999998,Gambia,Africa,Sub-Saharan Africa
+Low,Kenya,0.512,0.983,0.581,0.431,0.37200000000000005,0.053,Kenya,Africa,Sub-Saharan Africa
+Low,Mauritania,0.57,1.167,0.489,0.066,0.106,0.08800000000000001,Mauritania,Africa,Sub-Saharan Africa
+Low,Mozambique,0.204,0.986,0.39,0.494,0.19699999999999998,0.138,Mozambique,Africa,Sub-Saharan Africa
+Low,Tunisia,0.9209999999999999,1.0,0.815,0.16699999999999998,0.059000000000000004,0.055,Tunisia,Africa,Northern Africa
+Low,Bangladesh,0.562,0.9279999999999999,0.723,0.527,0.166,0.14300000000000002,Bangladesh,Asia,Southern Asia
+Very Low,Iraq,1.043,0.98,0.574,0.24100000000000002,0.14800000000000002,0.08900000000000001,Iraq,Asia,Western Asia
+Very Low,Congo (Kinshasa),0.094,1.125,0.35700000000000004,0.26899999999999996,0.212,0.053,Congo (Kinshasa),Africa,Sub-Saharan Africa
+Very Low,Mali,0.385,1.105,0.308,0.327,0.153,0.052000000000000005,Mali,Africa,Sub-Saharan Africa
+Very Low,Sierra Leone,0.268,0.841,0.242,0.309,0.252,0.045,Sierra Leone,Africa,Sub-Saharan Africa
+Very Low,Sri Lanka,0.9490000000000001,1.265,0.831,0.47,0.244,0.047,Sri Lanka,Asia,Southern Asia
+Very Low,Myanmar,0.71,1.181,0.555,0.525,0.5660000000000001,0.172,Myanmar,Asia,South-eastern Asia
+Very Low,Chad,0.35,0.7659999999999999,0.192,0.174,0.198,0.078,Chad,Africa,Sub-Saharan Africa
+Very Low,Ukraine,0.82,1.39,0.7390000000000001,0.17800000000000002,0.187,0.01,Ukraine,Europe,Eastern Europe
+Very Low,Ethiopia,0.336,1.033,0.532,0.344,0.209,0.1,Ethiopia,Africa,Sub-Saharan Africa
+Very Low,Swaziland,0.8109999999999999,1.149,0.0,0.313,0.07400000000000001,0.135,Swaziland,Africa,Sub-Saharan Africa
+Very Low,Uganda,0.332,1.069,0.44299999999999995,0.35600000000000004,0.252,0.06,Uganda,Africa,Sub-Saharan Africa
+Very Low,Egypt,0.9129999999999999,1.0390000000000001,0.644,0.24100000000000002,0.076,0.067,Egypt,Africa,Northern Africa
+Very Low,Zambia,0.578,1.058,0.426,0.431,0.247,0.087,Zambia,Africa,Sub-Saharan Africa
+Very Low,Togo,0.275,0.5720000000000001,0.41,0.293,0.177,0.085,Togo,Africa,Sub-Saharan Africa
+Very Low,India,0.755,0.765,0.588,0.498,0.2,0.085,India,Asia,Southern Asia
+Very Low,Liberia,0.073,0.922,0.44299999999999995,0.37,0.233,0.033,Liberia,Africa,Sub-Saharan Africa
+Very Low,Comoros,0.27399999999999997,0.757,0.505,0.142,0.275,0.078,Comoros,Africa,Sub-Saharan Africa
+Very Low,Madagascar,0.27399999999999997,0.9159999999999999,0.555,0.14800000000000002,0.16899999999999998,0.040999999999999995,Madagascar,Africa,Sub-Saharan Africa
+Very Low,Lesotho,0.489,1.169,0.168,0.359,0.107,0.09300000000000001,Lesotho,Africa,Sub-Saharan Africa
+Very Low,Burundi,0.046,0.447,0.38,0.22,0.17600000000000002,0.18,Burundi,Africa,Sub-Saharan Africa
+Very Low,Zimbabwe,0.366,1.114,0.433,0.361,0.151,0.08900000000000001,Zimbabwe,Africa,Sub-Saharan Africa
+Very Low,Haiti,0.32299999999999995,0.688,0.449,0.026000000000000002,0.419,0.11,Haiti,Americas,Latin America and the Caribbean
+Very Low,Botswana,1.041,1.145,0.5379999999999999,0.455,0.025,0.1,Botswana,Africa,Sub-Saharan Africa
+Very Low,Syria,0.619,0.37799999999999995,0.44,0.013000000000000001,0.331,0.141,Syria,Asia,Western Asia
+Very Low,Malawi,0.191,0.56,0.495,0.44299999999999995,0.218,0.08900000000000001,Malawi,Africa,Sub-Saharan Africa
+Very Low,Yemen,0.287,1.163,0.46299999999999997,0.14300000000000002,0.10800000000000001,0.077,Yemen,Asia,Western Asia
+Very Low,Rwanda,0.359,0.711,0.614,0.555,0.217,0.41100000000000003,Rwanda,Africa,Sub-Saharan Africa
+Very Low,Tanzania,0.47600000000000003,0.885,0.499,0.41700000000000004,0.276,0.147,Tanzania,Africa,Sub-Saharan Africa
+Very Low,Afghanistan,0.35,0.517,0.361,0.0,0.158,0.025,Afghanistan,Asia,Southern Asia
+Very Low,Central African Republic,0.026000000000000002,0.0,0.105,0.225,0.235,0.035,Central African Republic,Africa,Sub-Saharan Africa
+Very Low,South Sudan,0.306,0.575,0.295,0.01,0.20199999999999999,0.091,South Sudan,Africa,Sub-Saharan Africa
