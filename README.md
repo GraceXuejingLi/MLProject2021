@@ -4,7 +4,7 @@ This folder contains all the assignments for Advanced Machine Learning, includin
 
 Created and completed by Grace Xuejing Li
 
-### [Project 1: U.N. World Happiness Tabluar Data Exercise] (https://github.com/GraceXuejingLi/MLProject2021/tree/main/%231%20TabularData)
+### [Project 1: U.N. World Happiness Tabluar Data Exercise](https://github.com/GraceXuejingLi/MLProject2021/tree/main/%231%20TabularData)
 
 #### Description:
 Used U.N. World Happiness Data and built machine learning models to predict each country's happiness level.
@@ -27,7 +27,7 @@ Accuracy on test set: 0.269
 Keras
 Accuracy: 42%
 
-### [Project 2: Covid Positive X-Ray Image Data] ()
+### [Project 2: Covid Positive X-Ray Image Data](https://github.com/GraceXuejingLi/MLProject2021/tree/main/%232%20ImageData)
 
 #### Description:
  State-of-the-art image processing techniques are being widely used in the diagnosis of diseases by processing medical images such as X-rays, MRIs, and others. Compared to more traditional techniques that are more expensive, less accurate and requires special medical personnel, training computers to diagnose diseases or facilitate surgeries becomes a more popular choice becasue of it's versatility and efficiency.
