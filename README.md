@@ -49,7 +49,7 @@ Resnet Model with Transfer Learning
 #### Findings:
  Overall, our first model, Squeezenet, has the best performance among the other models. The nypterparameter, epoch, is set to four, which means the model runs through the entire training dataset four times. To avoid overfitting on the trainning dataset, I also added two dropout of 0.5 layers to the model. The dropout layer will randomly switch off 50% of the neurons and reduce model complexity. Our third model has a significantly higher accuracy score than the validation accuracy score, which means the model is overfitting on the training dataset. 
 
-### [Project 3: Covid Tweets Misinformation] ()
+### [Project 3: Covid Tweets Misinformation](https://github.com/GraceXuejingLi/MLProject2021/tree/main/%233%20TweetsMisinformation)
 #### Description:
 The data was collected from two different sources. The first data set consists of false or partially dalse tweetst from fact-checking websites, and the second source comes frmo a random sample of tweets realted to COVID-19. Although the defination of misinformation remains controversial, the researchers defined it as"circulating information that is false", distinguishing from the more commonly used defination for misinformation and disinformation. 
 
