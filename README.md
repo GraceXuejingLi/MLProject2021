@@ -4,7 +4,7 @@ This folder contains all the assignments for Advanced Machine Learning, includin
 
 Created and completed by Grace Xuejing Li
 
-### [Project 1: U.N. World Happiness Tabluar Data Exercise] ()
+### [Project 1: U.N. World Happiness Tabluar Data Exercise] (https://github.com/GraceXuejingLi/MLProject2021/tree/main/%231%20TabularData)
 
 #### Description:
 Used U.N. World Happiness Data and built machine learning models to predict each country's happiness level.
